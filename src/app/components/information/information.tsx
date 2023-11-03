@@ -11,7 +11,7 @@ export function Info(){
         </div>
         <SectionTitle text="Education"/>
         <div className="educational-info">
-          <span>🎓👨‍🎓</span>
+          <span>👨‍🎓 </span>
           <span>Universidade Federal da Paraíba</span>
         </div>
       </div>
